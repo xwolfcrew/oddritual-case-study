@@ -832,7 +832,7 @@ footer {
   color: var(--secondary-color);
 }
 
-@media (max-width: 600px) {
+@media (max-width: 1000px) {
   body {
     overflow-x: hidden;
   }
